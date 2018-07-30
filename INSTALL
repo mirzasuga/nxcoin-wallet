@@ -1,0 +1,9 @@
+Building NxcCoin
+
+See doc/readme-qt.rst for instructions on building NxcCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of NxcCoin.
+
+See doc/build-*.txt for instructions on building nxccoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of NxcCoin.
