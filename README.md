@@ -1,0 +1,2 @@
+# nxccoin-wallet
+
